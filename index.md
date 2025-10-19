@@ -26,9 +26,9 @@ Here's some words about the book _One Hundred Years..._.
 
 [Search for it.](http://www..google.com)
 
-[You're **really, really** going to want to see this](www.dailykitten.com)
+[You're **really, really** going to want to see this](https://www.dailykitten.com)
 
-#### The Latest News from [the BBC](http://www.bbc.com/news)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
@@ -111,6 +111,7 @@ To doubt they were kneeling then.
 
 2. Pour a gallon of milk into the bowl.  
    Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
 
 
 
